@@ -53,3 +53,22 @@ I care about evidence over claims: experiments, ablation studies, and code you c
 - **GitHub:** [@YasaswiAnjan](https://github.com/YasaswiAnjan) — you're looking at it
 
 *If you're hiring, collaborating on research, or just want to talk about NLP — my inbox is open.*
+
+---
+
+<div align="center">
+
+```
+ __________________________________________
+/ Thanks for stopping by! Keep building.  \
+\_________________________________________/
+       \   ^__^
+        \  (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+```
+
+*Powered by curiosity, coffee, and a suspicious number of Jupyter notebooks.*
+
+</div>
