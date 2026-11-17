@@ -69,7 +69,7 @@ I care about evidence over claims: experiments, ablation studies, and code you c
                ||     ||
 ```
 
-*Powered by curiosity, coffee, and a suspicious number of Jupyter notebooks.*
+*My models halt early; my Spotify queue does not.*
 
 </div>
 
