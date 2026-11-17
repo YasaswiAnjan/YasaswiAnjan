@@ -72,3 +72,30 @@ I care about evidence over claims: experiments, ablation studies, and code you c
 *Powered by curiosity, coffee, and a suspicious number of Jupyter notebooks.*
 
 </div>
+
+---
+
+<div align="center">
+
+```
+                       *
+                      / \
+                    / / \ \
+                  / /*/ \ \ \
+                / / / / \ \ \ \
+              / / /@/ / \ \ \ \ \
+            / /o/ / / / \ \ \ \ \ \
+          / / / / / / / \ \ \ \ \ \ \
+        / / / /*/ / / / \ \ \ \ \ \ \ \
+      / / /+/ / / / / / \ \ \ \ \ \ \ \ \
+    / / / / /o/ / / / / \ \ \ \ \ \ \ \ \ \
+  / / /*/ / / / / / / / \ \ \ \ \ \ \ \ \ \ \
+/ / / / / / / / / / / / \ \ \ \ \ \ \ \ \ \ \ \
+                    ||  ||
+                ___/||__||\___
+               /---------------\
+```
+
+*Merry Christmas! May your builds be green and your bugs be few.*
+
+</div>
