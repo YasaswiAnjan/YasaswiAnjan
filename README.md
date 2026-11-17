@@ -47,23 +47,6 @@ I care about evidence over claims: experiments, ablation studies, and code you c
 
 **Other things I've built:** [Enter-The-Matrix](https://github.com/YasaswiAnjan/Enter-The-Matrix) — a dependency-free HTML5 canvas digital-rain animation — and [plytek](https://github.com/YasaswiAnjan/plytek) — a static site for a plywood and timberwood brand.
 
-## 🎓 Education
-
-- **B.Tech, Computer Science Engineering** — VIT-AP University · 2023–2027
-  - Specialization: Artificial Intelligence & Machine Learning · CGPA: 8.57 / 10.0
-  - Coursework: Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Statistics, Probability
-- **Intermediate (Class 12)** — Sri Chaitanya College, Vijayawada · 2021–2023 — 90.7%
-- **CBSE (Class 10)** — Nalanda Vidyaniketan, Vijayawada · 2020–2021 — 93.6%
-
-## 🏆 Leadership
-
-- **Club Secretary, Hult Prize, VIT-AP** · 2026–present — run day-to-day operations for a team of 20+, coordinate marketing, technical and finance teams, and handle university approvals and budgets.
-- **Co-leader, Documentation Team, Hult Prize, VIT-AP** · 2024–2026 — led a team of 5 writing proposals and presentations, cutting preparation time by 30%.
-
-## 🌐 Languages
-
-English (fluent) · Hindi (fluent) · Telugu (native) · French (basic)
-
 ## 📫 Get in touch
 
 - **Email:** [yasawianjan@gmail.com](mailto:yasawianjan@gmail.com)
